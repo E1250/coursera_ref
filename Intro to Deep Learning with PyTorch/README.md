@@ -42,3 +42,6 @@ If you would like to know more about interpreting CNNs and convolutional layers 
 [Deep learning eBook (2016)](https://www.deeplearningbook.org/) authored by Ian Goodfellow, Yoshua Bengio, and Aaron Courville; published by Cambridge: MIT Press.
 ## Style Transfer
 * [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+## Deploying Pytorch Models
+* LOADING A TORCHSCRIPT MODEL IN C++ - https://pytorch.org/tutorials/advanced/cpp_export.html
+* PYTORCH C++ API - https://pytorch.org/cppdocs/
