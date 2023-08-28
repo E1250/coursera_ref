@@ -2,6 +2,9 @@
 * Notion Notes - https://www.notion.so/e1250/Intro-to-Deep-Learning-with-PyTorch-f333ad09e5174f46969307296dc3f6f9?pvs=4
 
 # Resources
+## Intro to PyTorch
+* Github Repo - https://github.com/udacity/deep-learning-v2-pytorch
+
 ## Convolutional Neural Networks
 ### Capsule Networks
 * You can learn more about [capsules, in this blog post.](https://cezannec.github.io/Capsule_Networks/)
